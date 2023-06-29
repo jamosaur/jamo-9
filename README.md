@@ -25,7 +25,7 @@ ENC PUSH: 1.1
 
 ## Setting up for use with Arduino IDE
 
-
+https://github.com/DeqingSun/ch55xduino
 
 ## Quick example
 
