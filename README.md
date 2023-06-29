@@ -27,6 +27,10 @@ ENC PUSH: 1.1
 
 https://github.com/DeqingSun/ch55xduino
 
+## Flashing instructions
+
+Hold down the push button and plug into your computer!
+
 ## Quick example
 
 ```c
